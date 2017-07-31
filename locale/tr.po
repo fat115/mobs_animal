@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-31 08:58+0200\n"
+"POT-Creation-Date: 2017-07-31 11:28+0200\n"
 "PO-Revision-Date: 2017-04-26 09:02+0200\n"
+"Last-Translator: Admicos\n"
 "Language-Team: \n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.12\n"
-"Last-Translator: Admicos\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: tr\n"
 
 #: bee.lua
 msgid "Bee"
@@ -163,8 +163,9 @@ msgid "Yellow"
 msgstr "Sarı"
 
 #: sheep.lua
-msgid "Sheep"
-msgstr "Koyun"
+#, fuzzy
+msgid "@1 Sheep"
+msgstr "@1 Koyun"
 
 #: warthog.lua
 msgid "Warthog"
